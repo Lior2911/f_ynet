@@ -1,0 +1,122 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+#header{
+    
+    margin: 20px;
+}
+#logo{
+    margin-left: auto;
+    margin-right: auto;
+    width: 45vw;
+    
+
+}
+#nav{
+    background-color: #de1a1a;
+    text-align: start;
+    display: flex;
+    justify-content: space-between;
+    color: white;  
+    list-style-type: none;
+    margin-bottom: 20px;
+    width: 95%;
+    direction: rtl;
+    
+
+    
+}
+
+.con1{
+    position: relative;
+    margin: 0 auto;
+    width: 100vw;
+    margin-top: 10;
+    align-items: flex-start;
+   
+
+}
+#putin{
+    width: 12vh;
+    float: left;
+    
+  
+
+}
+#putin2{
+    width: 45vw;
+    height: 50vh;
+    float: right;
+
+
+
+    
+
+}
+a{
+    text-decoration: none;
+    color:#f0f8ff;
+        
+    }
+#pic1{
+    width: 50vw;
+    height: 50vh;
+}
+table{
+    width: 100vw;
+    height: 25%;
+    background-color: #f0f0f0;
+    margin-bottom: 25px;
+
+
+}
+th{
+    width: 100vw;
+    background-color: #f0f0f0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    padding: 14px;
+}
+#con2{
+ 
+    margin: 341px auto;
+    width: 50vh;
+    margin-right: 100vw;
+   
+
+    
+}
+.par1{
+    width: 50vw;
+    height: 22vh;
+    color: #f0f0f0;
+    background-color:#de1a1a;
+    display:flex;
+    border-radius: 5px;
+    direction: rtl;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+}
+.par2{
+    width: 50vw;
+    height: 22vh;
+    color: #f0f0f0;
+    background-color: #1f12cf;
+    display:flex;
+    border-radius:5px;
+    font-family: Arial, Helvetica, sans-serif;
+    direction: rtl;
+    text-align: left;
+    
+    
+    
+ 
+    
+}
+.photos{
+    margin-left: 10px;
+    width: 25vh;
+    border-radius: 3px;
+}
