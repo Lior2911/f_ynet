@@ -49,6 +49,7 @@ body{
     width: 45vw;
     height: 50vh;
     float: right;
+    direction: rtl;
 
 
 
@@ -116,7 +117,40 @@ th{
     
 }
 .photos{
-    margin-left: 10px;
-    width: 25vh;
+    
+    width:25vw;
     border-radius: 3px;
+    display: flex;
+}
+.pir{
+    flex: 1;
+    
+}
+
+#p_img{
+    position: absolute;
+    top: 118vh;
+    margin-left: 52vw;
+
+}
+
+#p_img1{
+    position: absolute;
+    top: 118vh;
+    margin-left: 77vw;
+
+}
+
+#p_img2{
+    position: absolute;
+    top: 165vh;
+    margin-left: 52vw;
+
+}
+
+#p_img3{
+    position: absolute;
+    top: 165vh;
+    margin-left: 77vw;
+    
 }
